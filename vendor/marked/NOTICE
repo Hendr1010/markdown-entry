@@ -17,3 +17,5 @@ default options (GFM on, async off).
                   sha256 8e3a3f82f59a60958f56ca08f445647c32a4733dc7ca6c2c46f6eb898471ab9c
 
 Nothing here is edited. The house baseline carries the same two files (baseline/vendor/marked/).
+
+Round-2 entry: only the public Lexer and Parser classes are reused; upstream bytes remain intact.
